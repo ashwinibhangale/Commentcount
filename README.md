@@ -6,4 +6,4 @@ The program will ask you to provide path where your file is stored.
 
 The program has comments explaining each part of the code.
 
-The code works for python programs(capitaloe.py) and a partial solution is uploaded for java,javascript codes(capitalone_partial.py)
+The code works for python programs(capitalone.py) and a partial solution is uploaded for java,javascript codes(capitalone_partial.py)
